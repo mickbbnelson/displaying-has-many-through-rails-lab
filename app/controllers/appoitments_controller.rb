@@ -1,0 +1,3 @@
+class AppoitmentsController < ApplicationController
+
+end
